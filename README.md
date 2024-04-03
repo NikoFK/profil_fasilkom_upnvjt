@@ -1,6 +1,7 @@
 # profil_fasilkom_upnvjt
 
-A new Flutter project.
+Project UTS
+
 
 ## Getting Started
 
